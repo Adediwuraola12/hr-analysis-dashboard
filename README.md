@@ -35,10 +35,13 @@ EDA involved exploring the sales data to answer key questions, such as;
   2. The Sales Department has the highest attrition in the department.
   3. The staffs within the Age Group of 25-34 has the highest attrition rate in Age Group.
   4. The Company has more Male Workers comapred to Females.
-  5. The highest sales was made from the Mountain 200 product
+     
 
   ## Recommendations
-  Based on the analysis, i recommend that a survey should be carried out to discover the cause of the attrition and necessary actions should be taken immediately after the survey.
+  Based on the analysis, i recommend that;
+ -  Conduct Exit Interviews: Systematically gather feedback from employees leaving the company to identify underlying causes of attrition. Use this data to make data-driven improvements.
+- Engage Employees Regularly: Regular employee surveys and open forums can provide insights into what employees need to feel more satisfied and supported at work. Addressing their concerns can help reduce turnover.
+- Employee Well-being Initiatives: Invest in mental health and wellness programs, such as employee assistance programs (EAPs), to support staff facing personal and work-related stress
   
 
   
