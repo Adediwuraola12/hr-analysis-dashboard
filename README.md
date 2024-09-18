@@ -24,7 +24,7 @@ In the intial data preparation phase, i performed the following task;
 ## Explanatory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as;
 - Which department has the highest attrition rate?
-- What is te attrition rate across Job Role?
+- What is the attrition rate across Job Role?
 - What is the Total Number of active Employees?
 - What is the Total Number of Employees?
   
@@ -38,11 +38,7 @@ EDA involved exploring the sales data to answer key questions, such as;
   5. The highest sales was made from the Mountain 200 product
 
   ## Recommendations
-  Based on the analysis, i recommend the following actions;
-  . More Staffs should be employeed to the sales department to reduce the workload on each employee.
-  . The company sholud endeavor to add some incetives to the salary of the sales executive and others also.
-  .The company should create a conducive working environment and make everyone feel involved.
+  Based on the analysis, i recommend that a survey should be carried out to discover the cause of the attrition and necessary actions should be taken immediately after the survey.
+  
 
-  ## Limitations
-  I had to remove all Passive and inactive employee because they would affect the accuracy from the analysis.
   
